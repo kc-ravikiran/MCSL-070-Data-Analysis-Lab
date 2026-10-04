@@ -1,0 +1,5 @@
+Order_ID,Customer,Region,Product
+O001,ABC Pvt Ltd,North,Laptop
+O002,XYZ Company,South,Phone
+O003,XYZ Company,North,Laptop
+O004,ABC Pvt Ltd,East,Tablet
